@@ -1,6 +1,6 @@
 # Emergent Labs
 
-![Emergent Labs](./assets/hero.png)
+![Emergent Labs](./assets/hero-github-banner.png)
 
 Technical execution without unnecessary overhead.
 
