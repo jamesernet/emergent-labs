@@ -1,10 +1,9 @@
 # Emergent Labs
-
-![Emergent Labs](./assets/hero-github-banner.png)
-
 Technical execution without unnecessary overhead.
 
 We help founders and operators validate ideas, make better technical decisions, and move important projects forward — without layers of management or slow consulting cycles.
+
+![Emergent Labs](./assets/hero-github-banner.png)
 
 ---
 
