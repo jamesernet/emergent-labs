@@ -1,7 +1,7 @@
 # Emergent Labs
-Technical execution without unnecessary overhead.
+Practical tools, built in the open.
 
-We help founders and operators validate ideas, make better technical decisions, and move important projects forward — without layers of management or slow consulting cycles.
+Emergent Labs is a small group of software engineers and designers. We explore new technology and build tools that solve practical problems: some for our own use, some with the teams we work alongside. We publish in the open where we can, collaborate closely rather than hand work off, and take on most new work by referral.
 
 ![Emergent Labs](./assets/hero-github-banner.png)
 
